@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @insominiac21
+- 👋 Hi, I’m @insomniac_21
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a few python projects

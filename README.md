@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @insomniac_Ash 
+- 👋 Hi, I’m Ansh Patidar
 - 👀 I’m interested in Computer science and pursuing it
 - 📫 Reach me via my GitHub id
 <!---

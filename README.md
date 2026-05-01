@@ -157,9 +157,3 @@ I currently work on projects that combine:
 </p>
 
 ---
-
-<div align="center">
-
-⭐ Built with curiosity, shipped with purpose.
-
-</div>

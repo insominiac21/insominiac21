@@ -47,15 +47,15 @@ I currently work on projects that combine:
 
 ### 🔹 Sahayak AI: Agentic WhatsApp Helpline (Govt. Schemes)
 `WhatsApp • LangGraph • Gemini • Qdrant • Serper API • Render`
-- Built multilingual, voice-enabled agentic assistant handling 22 Indian languages[cite: 11].
-- Implemented a LangGraph reasoning agent to dynamically chain semantic search, web search, and eligibility tools[cite: 11].
-- Achieved ~30s latency for 20s audio inputs via optimized STT and retrieval pipelines[cite: 11].
+- Built multilingual, voice-enabled agentic assistant handling 22 Indian languages .
+- Implemented a LangGraph reasoning agent to dynamically chain semantic search, web search, and eligibility tools .
+- Achieved ~30s latency for 20s audio inputs via optimized STT and retrieval pipelines .
 
 ### 🔹 Autonomous Video Generation Engine (Manim)
 `Agent Orchestration • Self-Healing Validation • AWS EC2 • Bedrock`
-- Architected a 6-layer autonomous pipeline generating math-backed Manim videos under ~3 minutes[cite: 11].
-- Executed AST static checks and LLM-as-a-judge evals catching >80% of codegen failures[cite: 11].
-- Deployed scalable asynchronous API using job IDs and evaluated AWS Bedrock for cost optimization[cite: 11].
+- Architected a 6-layer autonomous pipeline generating math-backed Manim videos under ~3 minutes .
+- Executed AST static checks and LLM-as-a-judge evals catching >80% of codegen failures .
+- Deployed scalable asynchronous API using job IDs and evaluated AWS Bedrock for cost optimization .
 
 ### 🔹 UIDAI Aadhaar Enrollment Operational Intelligence
 `Big Data • Geospatial Analysis • Prescriptive Analytics • Clustering`
@@ -65,20 +65,20 @@ I currently work on projects that combine:
 
 ### 🔹 NEM AI (Viva-AI): RAG-Powered Study Mentor
 `RAG • Prompt Engineering • Guardrails • Adaptive Scheduling`
-- Built multi-turn viva system adapting difficulty in real-time[cite: 11].
-- Added prompt-injection protection, schema validation, and spaced-repetition scheduling[cite: 11].
-- Designed structured question generation using hint-first scaffolding[cite: 11].
+- Built multi-turn viva system adapting difficulty in real-time .
+- Added prompt-injection protection, schema validation, and spaced-repetition scheduling .
+- Designed structured question generation using hint-first scaffolding .
 
 ### 🔹 Hybrid Ranking & Recommendation Engine
 `Recommender Systems • Ranking • LLM Distillation • LoRA`
-- Finetuned Qwen2.5 models using LoRA for semantic tagging and cold-start handling[cite: 11].
-- Implemented cart-prefix Top-N ranker yielding HitRate@10=0.718 and NDCG@10=0.398[cite: 11].
-- Surfaced 4,494 unique items with 0% duplicate recommendations at p99=52.08ms latency[cite: 11].
+- Finetuned Qwen2.5 models using LoRA for semantic tagging and cold-start handling .
+- Implemented cart-prefix Top-N ranker yielding HitRate@10=0.718 and NDCG@10=0.398 .
+- Surfaced 4,494 unique items with 0% duplicate recommendations at p99=52.08ms latency .
 
 ### 🔹 Real-Time Shoplifting Detection using YOLOv8
 `OpenCV • Object Detection • Flask • MJPEG Streaming`
-- Created real-time retail surveillance pipeline for live anomaly detection[cite: 11].
-- Achieved stable near real-time performance with temporal validation and confidence thresholding[cite: 11].
+- Created real-time retail surveillance pipeline for live anomaly detection .
+- Achieved stable near real-time performance with temporal validation and confidence thresholding .
 
 ---
 
@@ -129,28 +129,18 @@ I currently work on projects that combine:
 ## 👥 Leadership & Community
 
 - **President, E-Cell** — leading entrepreneurial and innovation initiatives.
-- **AI/ML Domain Lead, GDG Nagpur** — leading workshops and mentoring projects in AI/ML[cite: 11].
-- **Data Analyst, CRISPR (IIIT Nagpur)** — supporting hackathons, analytics demos, and student projects[cite: 10].
+- **AI/ML Domain Lead, GDG Nagpur** — leading workshops and mentoring projects in AI/ML.
+- **Data Analyst, CRISPR (IIIT Nagpur)** — supporting hackathons, analytics demos, and student projects.
 
 ---
 
 ## 🏆 Achievements
 
-- **UIDAI Aadhaar Hackathon** — 2nd place among 20,000+ participants (Cash Prize ₹1,50,000)[cite: 11, 12].
-- **Coral Quest International Data Science Hackathon** — global rank 6th (Cash Prize $600)[cite: 11].
+- **UIDAI Aadhaar Hackathon** — 2nd place among 20,000+ participants (Cash Prize ₹1,50,000).
+- **Coral Quest International Data Science Hackathon** — global rank 6th (Cash Prize $600).
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/insominiac21">
-    <img src="https://github-readme-stats.vercel.app/api?username=insominiac21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insominiac21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-  </a>
-</p>
-
----
 
 ## 📬 Connect With Me
 

@@ -33,7 +33,7 @@
 
 ## ✨ About Me
 
-I am a Computer Science student at IIIT Nagpur and currently an AI Engineer Intern at Neurema. I build practical AI systems, focusing on real-world problems with measurable results, from real-time inference and agentic pipelines to ranking systems and public-data analytics.
+I am a Computer Science student at IIIT Nagpur and currently Data Scientist intern at neurIOT and ex AI Engineer Intern at Neurema. I build practical AI systems, focusing on real-world problems with measurable results, from real-time inference and agentic pipelines to ranking systems and public-data analytics.
 
 I currently work on projects that combine:
 - Computer Vision and real-time inference

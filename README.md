@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer • Computer Vision • LLM Systems • Recommender Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+Intern+@+Neurema;Building+real-world+AI+systems+that+ship;Computer+Vision+%7C+RAG+%7C+Ranking+%7C+Backend;IIIT+Nagpur+%7C+GDG+Nagpur+%7C+Kaggle" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Data+Scientist+Intern+@+neurIOT;Building+real-world+AI+systems+that+ship;Computer+Vision+%7C+RAG+%7C+Ranking+%7C+Backend;IIIT+Nagpur+%7C+GDG+Nagpur+%7C+Kaggle" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/insominiac21">
